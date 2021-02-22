@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "require": {
+        "vlucas/valitron": "^1.4",
+        "bramus/router": "~1.5"
+    }
+}

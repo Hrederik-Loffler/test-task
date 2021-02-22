@@ -1,0 +1,6 @@
+/vendor/vlucas
+/vendor/composer
+vendor/bramus
+vendor/bin
+/config.php
+/.idea
